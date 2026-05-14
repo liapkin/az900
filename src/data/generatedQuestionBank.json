@@ -1,0 +1,968 @@
+{
+  "1": [
+    {
+      "domain": "Describe cloud concepts",
+      "question": "Which approach best aligns with this official objective for AZ-900: Describe cloud concepts?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Describe cloud concepts",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe cloud concepts'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe cloud concepts",
+      "objectiveIndex": 0
+    },
+    {
+      "domain": "Describe Azure architecture and services",
+      "question": "You are designing a study scenario for AZ-900. Which choice best demonstrates: Describe Azure architecture and services?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Implement a governed Azure design that explicitly addresses: Describe Azure architecture and services",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure architecture and services'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure architecture and services",
+      "objectiveIndex": 1
+    },
+    {
+      "domain": "Describe Azure management and governance",
+      "question": "For AZ-900, which implementation decision most directly satisfies this objective: Describe Azure management and governance?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "Implement a governed Azure design that explicitly addresses: Describe Azure management and governance",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure management and governance'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure management and governance",
+      "objectiveIndex": 2
+    },
+    {
+      "domain": "Describe cloud concepts",
+      "question": "A practice item targets this objective in AZ-900: Describe cloud concepts. Which answer is strongest?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Implement a governed Azure design that explicitly addresses: Describe cloud concepts"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe cloud concepts'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe cloud concepts",
+      "objectiveIndex": 3
+    },
+    {
+      "domain": "Describe Azure architecture and services",
+      "question": "Which solution pattern best supports this AZ-900 objective: Describe Azure architecture and services?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Describe Azure architecture and services",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure architecture and services'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure architecture and services",
+      "objectiveIndex": 4
+    },
+    {
+      "domain": "Describe Azure management and governance",
+      "question": "Which approach best aligns with this official objective for AZ-900: Describe Azure management and governance?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "Implement a governed Azure design that explicitly addresses: Describe Azure management and governance",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure management and governance'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure management and governance",
+      "objectiveIndex": 5
+    },
+    {
+      "domain": "Describe cloud concepts",
+      "question": "You are designing a study scenario for AZ-900. Which choice best demonstrates: Describe cloud concepts?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Implement a governed Azure design that explicitly addresses: Describe cloud concepts",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe cloud concepts'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe cloud concepts",
+      "objectiveIndex": 6
+    },
+    {
+      "domain": "Describe Azure architecture and services",
+      "question": "For AZ-900, which implementation decision most directly satisfies this objective: Describe Azure architecture and services?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "Implement a governed Azure design that explicitly addresses: Describe Azure architecture and services"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure architecture and services'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure architecture and services",
+      "objectiveIndex": 7
+    },
+    {
+      "domain": "Describe Azure management and governance",
+      "question": "A practice item targets this objective in AZ-900: Describe Azure management and governance. Which answer is strongest?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Describe Azure management and governance",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure management and governance'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure management and governance",
+      "objectiveIndex": 8
+    },
+    {
+      "domain": "Describe cloud concepts",
+      "question": "Which solution pattern best supports this AZ-900 objective: Describe cloud concepts?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Implement a governed Azure design that explicitly addresses: Describe cloud concepts",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe cloud concepts'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe cloud concepts",
+      "objectiveIndex": 9
+    },
+    {
+      "domain": "Describe Azure architecture and services",
+      "question": "Which approach best aligns with this official objective for AZ-900: Describe Azure architecture and services?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "Implement a governed Azure design that explicitly addresses: Describe Azure architecture and services",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure architecture and services'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure architecture and services",
+      "objectiveIndex": 10
+    },
+    {
+      "domain": "Describe Azure management and governance",
+      "question": "You are designing a study scenario for AZ-900. Which choice best demonstrates: Describe Azure management and governance?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Implement a governed Azure design that explicitly addresses: Describe Azure management and governance"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure management and governance'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure management and governance",
+      "objectiveIndex": 11
+    },
+    {
+      "domain": "Describe cloud concepts",
+      "question": "For AZ-900, which implementation decision most directly satisfies this objective: Describe cloud concepts?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Describe cloud concepts",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe cloud concepts'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe cloud concepts",
+      "objectiveIndex": 12
+    },
+    {
+      "domain": "Describe Azure architecture and services",
+      "question": "A practice item targets this objective in AZ-900: Describe Azure architecture and services. Which answer is strongest?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "Implement a governed Azure design that explicitly addresses: Describe Azure architecture and services",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure architecture and services'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure architecture and services",
+      "objectiveIndex": 13
+    },
+    {
+      "domain": "Describe Azure management and governance",
+      "question": "Which solution pattern best supports this AZ-900 objective: Describe Azure management and governance?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Implement a governed Azure design that explicitly addresses: Describe Azure management and governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure management and governance'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure management and governance",
+      "objectiveIndex": 14
+    },
+    {
+      "domain": "Describe cloud concepts",
+      "question": "Which approach best aligns with this official objective for AZ-900: Describe cloud concepts?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "Implement a governed Azure design that explicitly addresses: Describe cloud concepts"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe cloud concepts'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe cloud concepts",
+      "objectiveIndex": 15
+    },
+    {
+      "domain": "Describe Azure architecture and services",
+      "question": "You are designing a study scenario for AZ-900. Which choice best demonstrates: Describe Azure architecture and services?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Describe Azure architecture and services",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure architecture and services'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure architecture and services",
+      "objectiveIndex": 16
+    },
+    {
+      "domain": "Describe Azure management and governance",
+      "question": "For AZ-900, which implementation decision most directly satisfies this objective: Describe Azure management and governance?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Implement a governed Azure design that explicitly addresses: Describe Azure management and governance",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure management and governance'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure management and governance",
+      "objectiveIndex": 17
+    },
+    {
+      "domain": "Describe cloud concepts",
+      "question": "A practice item targets this objective in AZ-900: Describe cloud concepts. Which answer is strongest?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "Implement a governed Azure design that explicitly addresses: Describe cloud concepts",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe cloud concepts'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe cloud concepts",
+      "objectiveIndex": 18
+    },
+    {
+      "domain": "Describe Azure architecture and services",
+      "question": "Which solution pattern best supports this AZ-900 objective: Describe Azure architecture and services?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Implement a governed Azure design that explicitly addresses: Describe Azure architecture and services"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Describe Azure architecture and services'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-900",
+      "objectiveText": "Describe Azure architecture and services",
+      "objectiveIndex": 19
+    }
+  ],
+  "2": [
+    {
+      "domain": "Manage Azure identities and governance",
+      "question": "Which approach best aligns with this official objective for AZ-104: Manage Azure identities and governance?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Manage Azure identities and governance",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Manage Azure identities and governance'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Manage Azure identities and governance",
+      "objectiveIndex": 0
+    },
+    {
+      "domain": "Implement and manage storage",
+      "question": "You are designing a study scenario for AZ-104. Which choice best demonstrates: Implement and manage storage?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Implement a governed Azure design that explicitly addresses: Implement and manage storage",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Implement and manage storage'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Implement and manage storage",
+      "objectiveIndex": 1
+    },
+    {
+      "domain": "Official Objective",
+      "question": "For AZ-104, which implementation decision most directly satisfies this objective: Deploy and manage Azure compute resources?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "Implement a governed Azure design that explicitly addresses: Deploy and manage Azure compute resources",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Deploy and manage Azure compute resources'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Deploy and manage Azure compute resources",
+      "objectiveIndex": 2
+    },
+    {
+      "domain": "Implement and manage virtual networking",
+      "question": "A practice item targets this objective in AZ-104: Implement and manage virtual networking. Which answer is strongest?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Implement a governed Azure design that explicitly addresses: Implement and manage virtual networking"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Implement and manage virtual networking'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Implement and manage virtual networking",
+      "objectiveIndex": 3
+    },
+    {
+      "domain": "Monitor and maintain Azure resources",
+      "question": "Which solution pattern best supports this AZ-104 objective: Monitor and maintain Azure resources?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Monitor and maintain Azure resources",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Monitor and maintain Azure resources'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Monitor and maintain Azure resources",
+      "objectiveIndex": 4
+    },
+    {
+      "domain": "Manage Azure identities and governance",
+      "question": "Which approach best aligns with this official objective for AZ-104: Manage Azure identities and governance?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "Implement a governed Azure design that explicitly addresses: Manage Azure identities and governance",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Manage Azure identities and governance'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Manage Azure identities and governance",
+      "objectiveIndex": 5
+    },
+    {
+      "domain": "Implement and manage storage",
+      "question": "You are designing a study scenario for AZ-104. Which choice best demonstrates: Implement and manage storage?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Implement a governed Azure design that explicitly addresses: Implement and manage storage",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Implement and manage storage'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Implement and manage storage",
+      "objectiveIndex": 6
+    },
+    {
+      "domain": "Official Objective",
+      "question": "For AZ-104, which implementation decision most directly satisfies this objective: Deploy and manage Azure compute resources?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "Implement a governed Azure design that explicitly addresses: Deploy and manage Azure compute resources"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Deploy and manage Azure compute resources'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Deploy and manage Azure compute resources",
+      "objectiveIndex": 7
+    },
+    {
+      "domain": "Implement and manage virtual networking",
+      "question": "A practice item targets this objective in AZ-104: Implement and manage virtual networking. Which answer is strongest?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Implement and manage virtual networking",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Implement and manage virtual networking'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Implement and manage virtual networking",
+      "objectiveIndex": 8
+    },
+    {
+      "domain": "Monitor and maintain Azure resources",
+      "question": "Which solution pattern best supports this AZ-104 objective: Monitor and maintain Azure resources?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Implement a governed Azure design that explicitly addresses: Monitor and maintain Azure resources",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Monitor and maintain Azure resources'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Monitor and maintain Azure resources",
+      "objectiveIndex": 9
+    },
+    {
+      "domain": "Manage Azure identities and governance",
+      "question": "Which approach best aligns with this official objective for AZ-104: Manage Azure identities and governance?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "Implement a governed Azure design that explicitly addresses: Manage Azure identities and governance",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Manage Azure identities and governance'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Manage Azure identities and governance",
+      "objectiveIndex": 10
+    },
+    {
+      "domain": "Implement and manage storage",
+      "question": "You are designing a study scenario for AZ-104. Which choice best demonstrates: Implement and manage storage?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Implement a governed Azure design that explicitly addresses: Implement and manage storage"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Implement and manage storage'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Implement and manage storage",
+      "objectiveIndex": 11
+    },
+    {
+      "domain": "Official Objective",
+      "question": "For AZ-104, which implementation decision most directly satisfies this objective: Deploy and manage Azure compute resources?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Deploy and manage Azure compute resources",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Deploy and manage Azure compute resources'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Deploy and manage Azure compute resources",
+      "objectiveIndex": 12
+    },
+    {
+      "domain": "Implement and manage virtual networking",
+      "question": "A practice item targets this objective in AZ-104: Implement and manage virtual networking. Which answer is strongest?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "Implement a governed Azure design that explicitly addresses: Implement and manage virtual networking",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Implement and manage virtual networking'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Implement and manage virtual networking",
+      "objectiveIndex": 13
+    },
+    {
+      "domain": "Monitor and maintain Azure resources",
+      "question": "Which solution pattern best supports this AZ-104 objective: Monitor and maintain Azure resources?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Implement a governed Azure design that explicitly addresses: Monitor and maintain Azure resources",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Monitor and maintain Azure resources'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Monitor and maintain Azure resources",
+      "objectiveIndex": 14
+    },
+    {
+      "domain": "Manage Azure identities and governance",
+      "question": "Which approach best aligns with this official objective for AZ-104: Manage Azure identities and governance?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "Implement a governed Azure design that explicitly addresses: Manage Azure identities and governance"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Manage Azure identities and governance'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Manage Azure identities and governance",
+      "objectiveIndex": 15
+    },
+    {
+      "domain": "Implement and manage storage",
+      "question": "You are designing a study scenario for AZ-104. Which choice best demonstrates: Implement and manage storage?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Implement and manage storage",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Implement and manage storage'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Implement and manage storage",
+      "objectiveIndex": 16
+    },
+    {
+      "domain": "Official Objective",
+      "question": "For AZ-104, which implementation decision most directly satisfies this objective: Deploy and manage Azure compute resources?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Implement a governed Azure design that explicitly addresses: Deploy and manage Azure compute resources",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Deploy and manage Azure compute resources'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Deploy and manage Azure compute resources",
+      "objectiveIndex": 17
+    },
+    {
+      "domain": "Implement and manage virtual networking",
+      "question": "A practice item targets this objective in AZ-104: Implement and manage virtual networking. Which answer is strongest?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "Implement a governed Azure design that explicitly addresses: Implement and manage virtual networking",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Implement and manage virtual networking'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Implement and manage virtual networking",
+      "objectiveIndex": 18
+    },
+    {
+      "domain": "Monitor and maintain Azure resources",
+      "question": "Which solution pattern best supports this AZ-104 objective: Monitor and maintain Azure resources?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Implement a governed Azure design that explicitly addresses: Monitor and maintain Azure resources"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Monitor and maintain Azure resources'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-104",
+      "objectiveText": "Monitor and maintain Azure resources",
+      "objectiveIndex": 19
+    }
+  ],
+  "3": [
+    {
+      "domain": "Official Objective",
+      "question": "Which approach best aligns with this official objective for AZ-305: Design identity, governance, and monitoring solutions?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Design identity, governance, and monitoring solutions",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design identity, governance, and monitoring solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design identity, governance, and monitoring solutions",
+      "objectiveIndex": 0
+    },
+    {
+      "domain": "Design data storage solutions",
+      "question": "You are designing a study scenario for AZ-305. Which choice best demonstrates: Design data storage solutions?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Implement a governed Azure design that explicitly addresses: Design data storage solutions",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design data storage solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design data storage solutions",
+      "objectiveIndex": 1
+    },
+    {
+      "domain": "Design business continuity solutions",
+      "question": "For AZ-305, which implementation decision most directly satisfies this objective: Design business continuity solutions?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "Implement a governed Azure design that explicitly addresses: Design business continuity solutions",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design business continuity solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design business continuity solutions",
+      "objectiveIndex": 2
+    },
+    {
+      "domain": "Design infrastructure solutions",
+      "question": "A practice item targets this objective in AZ-305: Design infrastructure solutions. Which answer is strongest?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Implement a governed Azure design that explicitly addresses: Design infrastructure solutions"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design infrastructure solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design infrastructure solutions",
+      "objectiveIndex": 3
+    },
+    {
+      "domain": "Official Objective",
+      "question": "Which solution pattern best supports this AZ-305 objective: Design identity, governance, and monitoring solutions?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Design identity, governance, and monitoring solutions",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design identity, governance, and monitoring solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design identity, governance, and monitoring solutions",
+      "objectiveIndex": 4
+    },
+    {
+      "domain": "Design data storage solutions",
+      "question": "Which approach best aligns with this official objective for AZ-305: Design data storage solutions?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "Implement a governed Azure design that explicitly addresses: Design data storage solutions",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design data storage solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design data storage solutions",
+      "objectiveIndex": 5
+    },
+    {
+      "domain": "Design business continuity solutions",
+      "question": "You are designing a study scenario for AZ-305. Which choice best demonstrates: Design business continuity solutions?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Implement a governed Azure design that explicitly addresses: Design business continuity solutions",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design business continuity solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design business continuity solutions",
+      "objectiveIndex": 6
+    },
+    {
+      "domain": "Design infrastructure solutions",
+      "question": "For AZ-305, which implementation decision most directly satisfies this objective: Design infrastructure solutions?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "Implement a governed Azure design that explicitly addresses: Design infrastructure solutions"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design infrastructure solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design infrastructure solutions",
+      "objectiveIndex": 7
+    },
+    {
+      "domain": "Official Objective",
+      "question": "A practice item targets this objective in AZ-305: Design identity, governance, and monitoring solutions. Which answer is strongest?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Design identity, governance, and monitoring solutions",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design identity, governance, and monitoring solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design identity, governance, and monitoring solutions",
+      "objectiveIndex": 8
+    },
+    {
+      "domain": "Design data storage solutions",
+      "question": "Which solution pattern best supports this AZ-305 objective: Design data storage solutions?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Implement a governed Azure design that explicitly addresses: Design data storage solutions",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design data storage solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design data storage solutions",
+      "objectiveIndex": 9
+    },
+    {
+      "domain": "Design business continuity solutions",
+      "question": "Which approach best aligns with this official objective for AZ-305: Design business continuity solutions?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "Implement a governed Azure design that explicitly addresses: Design business continuity solutions",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design business continuity solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design business continuity solutions",
+      "objectiveIndex": 10
+    },
+    {
+      "domain": "Design infrastructure solutions",
+      "question": "You are designing a study scenario for AZ-305. Which choice best demonstrates: Design infrastructure solutions?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Implement a governed Azure design that explicitly addresses: Design infrastructure solutions"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design infrastructure solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design infrastructure solutions",
+      "objectiveIndex": 11
+    },
+    {
+      "domain": "Official Objective",
+      "question": "For AZ-305, which implementation decision most directly satisfies this objective: Design identity, governance, and monitoring solutions?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Design identity, governance, and monitoring solutions",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design identity, governance, and monitoring solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design identity, governance, and monitoring solutions",
+      "objectiveIndex": 12
+    },
+    {
+      "domain": "Design data storage solutions",
+      "question": "A practice item targets this objective in AZ-305: Design data storage solutions. Which answer is strongest?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "Implement a governed Azure design that explicitly addresses: Design data storage solutions",
+        "One-time deployment with no lifecycle governance",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design data storage solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design data storage solutions",
+      "objectiveIndex": 13
+    },
+    {
+      "domain": "Design business continuity solutions",
+      "question": "Which solution pattern best supports this AZ-305 objective: Design business continuity solutions?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Implement a governed Azure design that explicitly addresses: Design business continuity solutions",
+        "Centralized credentials hardcoded in application code"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design business continuity solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design business continuity solutions",
+      "objectiveIndex": 14
+    },
+    {
+      "domain": "Design infrastructure solutions",
+      "question": "Which approach best aligns with this official objective for AZ-305: Design infrastructure solutions?",
+      "options": [
+        "No backup or disaster recovery validation process",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "Implement a governed Azure design that explicitly addresses: Design infrastructure solutions"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design infrastructure solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design infrastructure solutions",
+      "objectiveIndex": 15
+    },
+    {
+      "domain": "Official Objective",
+      "question": "You are designing a study scenario for AZ-305. Which choice best demonstrates: Design identity, governance, and monitoring solutions?",
+      "options": [
+        "Implement a governed Azure design that explicitly addresses: Design identity, governance, and monitoring solutions",
+        "A single global admin account with broad access",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 0,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design identity, governance, and monitoring solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design identity, governance, and monitoring solutions",
+      "objectiveIndex": 16
+    },
+    {
+      "domain": "Design data storage solutions",
+      "question": "For AZ-305, which implementation decision most directly satisfies this objective: Design data storage solutions?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Implement a governed Azure design that explicitly addresses: Design data storage solutions",
+        "Manual portal-only operations without policy control",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 1,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design data storage solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design data storage solutions",
+      "objectiveIndex": 17
+    },
+    {
+      "domain": "Design business continuity solutions",
+      "question": "A practice item targets this objective in AZ-305: Design business continuity solutions. Which answer is strongest?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "Implement a governed Azure design that explicitly addresses: Design business continuity solutions",
+        "A fixed-size architecture with no scaling strategy"
+      ],
+      "answer": 2,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design business continuity solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design business continuity solutions",
+      "objectiveIndex": 18
+    },
+    {
+      "domain": "Design infrastructure solutions",
+      "question": "Which solution pattern best supports this AZ-305 objective: Design infrastructure solutions?",
+      "options": [
+        "Disabling monitoring to reduce operational overhead",
+        "Public endpoints for all services by default",
+        "One-time deployment with no lifecycle governance",
+        "Implement a governed Azure design that explicitly addresses: Design infrastructure solutions"
+      ],
+      "answer": 3,
+      "explanation": "This practice question is derived from the official Microsoft Learn objective text. The correct answer is the only option that directly and explicitly fulfills 'Design infrastructure solutions'.",
+      "source": "microsoft-learn-objective",
+      "examCode": "AZ-305",
+      "objectiveText": "Design infrastructure solutions",
+      "objectiveIndex": 19
+    }
+  ]
+}

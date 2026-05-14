@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-05-14T09:08:53.317Z",
+  "sourceEndpoint": "https://learn.microsoft.com/api/catalog/?type=exams,certifications,mergedCertifications&locale=en-us",
+  "exams": [
+    {
+      "examCode": "AZ-900",
+      "examUid": "exam.AZ-900",
+      "title": "Microsoft Certified: Azure Fundamentals",
+      "subtitle": "<p>As a candidate for this certification, you’re a technology professional who wants to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This certification is a common starting point in a journey towards a career in Azure.</p>\n<p>You can describe Azure architectural components and Azure services, such as:</p>\n<ul>\n<li>Compute</li>\n<li>Networking</li>\n<li>Storage</li>\n</ul>\n<p>You can also describe features and tools to secure, govern, and administer Azure.</p>\n<p>You should have skills and experience working with an area of IT, such as:</p>\n<ul>\n<li>Infrastructure management</li>\n<li>Database management</li>\n<li>Software development</li>\n</ul>\n<p>You may be eligible for ACE college credit if you pass this certification exam. See <a href=\"/credentials/certifications/college-credit\">ACE college credit for certification exams</a> for details.</p>\n",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?WT.mc_id=api_CatalogApi",
+      "lastModified": "2026-01-15T16:14:00+00:00",
+      "pdfUrl": null,
+      "practiceAssessmentUrl": null,
+      "studyGuide": [
+        "course.az-900t00"
+      ],
+      "relatedCertifications": [
+        "Microsoft Certified: Azure Fundamentals"
+      ],
+      "skills": [
+        "Describe cloud concepts",
+        "Describe Azure architecture and services",
+        "Describe Azure management and governance"
+      ]
+    },
+    {
+      "examCode": "AZ-104",
+      "examUid": "exam.AZ-104",
+      "title": "Microsoft Certified: Azure Administrator Associate",
+      "subtitle": "<p>As a candidate for this certification, you should have subject matter expertise in implementing, managing, and monitoring an organization’s Microsoft Azure environment, including virtual networks, storage, compute, identity, security, and governance.</p>\n<p>As an Azure administrator, you often serve as part of a larger team dedicated to implementing an organization's cloud infrastructure. You also coordinate with other roles to deliver Azure networking, security, database, application development, and DevOps solutions.</p>\n<p>You should be familiar with:</p>\n<ul>\n<li>Operating systems</li>\n<li>Networking</li>\n<li>Servers</li>\n<li>Virtualization</li>\n</ul>\n<p>In addition, you should have experience with:</p>\n<ul>\n<li>PowerShell</li>\n<li>Azure CLI</li>\n<li>The Azure portal</li>\n<li>Azure Resource Manager templates or Bicep files</li>\n<li>Microsoft Entra ID</li>\n</ul>\n",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?WT.mc_id=api_CatalogApi",
+      "lastModified": "2026-04-21T14:43:00+00:00",
+      "pdfUrl": null,
+      "practiceAssessmentUrl": null,
+      "studyGuide": [
+        "course.az-104t00"
+      ],
+      "relatedCertifications": [
+        "Microsoft Certified: Azure Administrator Associate"
+      ],
+      "skills": [
+        "Manage Azure identities and governance",
+        "Implement and manage storage",
+        "Deploy and manage Azure compute resources",
+        "Implement and manage virtual networking",
+        "Monitor and maintain Azure resources"
+      ]
+    },
+    {
+      "examCode": "AZ-305",
+      "examUid": "exam.az-305",
+      "title": "Designing Microsoft Azure Infrastructure Solutions",
+      "subtitle": "This exam measures your ability to accomplish the following technical tasks: design identity, governance, and monitoring solutions; design data storage solutions; design business continuity solutions; and design infrastructure solutions.",
+      "url": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-305/?WT.mc_id=api_CatalogApi",
+      "lastModified": "2026-04-21T14:43:00+00:00",
+      "pdfUrl": null,
+      "practiceAssessmentUrl": null,
+      "studyGuide": [
+        "learn.wwl.microsoft-azure-architect-design-prerequisites",
+        "learn.wwl.design-identity-governance-monitor-solutions",
+        "learn.wwl.design-business-continuity-solutions",
+        "learn.wwl.design-data-storage-solutions",
+        "learn.wwl.design-infranstructure-solutions",
+        "learn.azure-well-architected-framework"
+      ],
+      "relatedCertifications": [
+        "Microsoft Certified: Azure Solutions Architect Expert"
+      ],
+      "skills": [
+        "Design identity, governance, and monitoring solutions",
+        "Design data storage solutions",
+        "Design business continuity solutions",
+        "Design infrastructure solutions"
+      ]
+    }
+  ]
+}
