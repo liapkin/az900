@@ -1,16 +1,80 @@
-# React + Vite
+# Azure Certification Practice Trainer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Purpose: provide a controlled practice environment for Azure certification preparation using official Microsoft Learn objectives as source material.
 
-Currently, two official plugins are available:
+Supported tracks:
+- AZ-900 (Fundamentals)
+- AZ-104 (Administrator)
+- AZ-305 (Solutions Architect)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Scope
 
-## React Compiler
+This project provides:
+- Timed multi-level practice sessions
+- Objective-aligned question sets
+- Score and domain breakdowns
+- Review flow for answered questions
+- Local synchronization of official exam metadata
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project does not provide real certification exam item banks.
 
-## Expanding the ESLint configuration
+## Technical Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 19
+- Vite 8
+- JavaScript (ESM)
+- CSS
+
+## Setup
+
+```bash
+npm install
+npm run sync:official
+npm run dev
+```
+
+## Commands
+
+- `npm run dev` — start development server
+- `npm run build` — create production build
+- `npm run preview` — preview build output
+- `npm run lint` — run static checks
+- `npm run sync:official` — refresh official exam metadata and regenerate local question data
+
+## Data Flow
+
+`sync:official` writes:
+
+- `src/data/officialExams.json`
+  - normalized official metadata for AZ-900, AZ-104, AZ-305
+- `src/data/generatedQuestionBank.json`
+  - locally generated practice questions derived from official objectives
+
+Sync script:
+- `scripts/sync-official-learn-data.mjs`
+
+Question generation:
+- `src/data/generateQuestionsFromObjectives.js`
+
+Payload reference:
+- `docs/official-learn-payloads.md`
+
+## Compliance
+
+Certification exam content is confidential. This repository uses public objective metadata and generates independent practice content.
+
+## Repository Layout
+
+```text
+scripts/
+  sync-official-learn-data.mjs
+src/
+  App.jsx
+  App.css
+  data/
+    generateQuestionsFromObjectives.js
+    officialExams.json
+    generatedQuestionBank.json
+docs/
+  official-learn-payloads.md
+```
